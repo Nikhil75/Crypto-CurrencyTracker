@@ -1,0 +1,19 @@
+.currency-logo {
+  height: 4vh;
+}
+li {
+  list-style: none;
+}
+.making-list-container {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+.currency-name {
+  margin-left: 20px;
+}
+.list {
+  display: flex;
+  color: white;
+  justify-content: space-between;
+}

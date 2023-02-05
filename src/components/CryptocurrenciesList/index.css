@@ -1,0 +1,29 @@
+.crypto-list-container {
+  color: white;
+  background-color: #092e33;
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+}
+.crypto-currencies-list {
+  border: 2px solid #00e7ff;
+  min-height: 35vh;
+  min-width: 800px;
+  border-radius: 8px;
+}
+.usdAndEuroCurrencies {
+  display: flex;
+  justify-content: space-around;
+  width: 30%;
+}
+.coin-type {
+  margin-left: 50px;
+}
+.loader {
+  display: flex;
+  align-self: center;
+}
+.cryp {
+  color: #00e7ff;
+  font-weight: bold;
+}

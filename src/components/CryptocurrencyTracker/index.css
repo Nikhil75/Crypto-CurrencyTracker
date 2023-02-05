@@ -1,0 +1,18 @@
+body {
+  font-family: 'Roboto';
+}
+.crypto-app-container {
+  background-color: #000000;
+  height: 120vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.name {
+  color: #00e7ff;
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+}
